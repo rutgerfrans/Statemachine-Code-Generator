@@ -1,0 +1,22 @@
+C:\Users\rdegr\source\repos\statemachine\statemachine\obj\Debug\statemachine.csprojAssemblyReference.cache
+C:\Users\rdegr\source\repos\statemachine\statemachine\obj\Debug\statemachine.Form1.resources
+C:\Users\rdegr\source\repos\statemachine\statemachine\obj\Debug\statemachine.Properties.Resources.resources
+C:\Users\rdegr\source\repos\statemachine\statemachine\obj\Debug\statemachine.csproj.GenerateResource.cache
+C:\Users\rdegr\source\repos\statemachine\statemachine\obj\Debug\statemachine.csproj.CoreCompileInputs.cache
+C:\Users\rdegr\source\repos\statemachine\statemachine\bin\Debug\statemachine.exe.config
+C:\Users\rdegr\source\repos\statemachine\statemachine\bin\Debug\statemachine.exe
+C:\Users\rdegr\source\repos\statemachine\statemachine\bin\Debug\statemachine.pdb
+C:\Users\rdegr\source\repos\statemachine\statemachine\obj\Debug\statemachine.exe
+C:\Users\rdegr\source\repos\statemachine\statemachine\obj\Debug\statemachine.pdb
+C:\Users\rdegr\source\repos\statemachine\statemachine\obj\Debug\statemachine.Form2.resources
+C:\Users\rdegr\OneDrive - ZuydHogeschool\School\Leerjaar 3\stage\4. realisatie en test\PoC\Statemachine PCiD\statemachine\obj\Debug\statemachine.Form1.resources
+C:\Users\rdegr\OneDrive - ZuydHogeschool\School\Leerjaar 3\stage\4. realisatie en test\PoC\Statemachine PCiD\statemachine\obj\Debug\statemachine.Form2.resources
+C:\Users\rdegr\OneDrive - ZuydHogeschool\School\Leerjaar 3\stage\4. realisatie en test\PoC\Statemachine PCiD\statemachine\obj\Debug\statemachine.Properties.Resources.resources
+C:\Users\rdegr\OneDrive - ZuydHogeschool\School\Leerjaar 3\stage\4. realisatie en test\PoC\Statemachine PCiD\statemachine\obj\Debug\statemachine.csproj.GenerateResource.cache
+C:\Users\rdegr\OneDrive - ZuydHogeschool\School\Leerjaar 3\stage\4. realisatie en test\PoC\Statemachine PCiD\statemachine\obj\Debug\statemachine.csproj.Fody.CopyLocal.cache
+C:\Users\rdegr\OneDrive - ZuydHogeschool\School\Leerjaar 3\stage\4. realisatie en test\PoC\Statemachine PCiD\statemachine\obj\Debug\statemachine.csprojAssemblyReference.cache
+C:\Users\rdegr\OneDrive - ZuydHogeschool\School\Leerjaar 3\stage\4. realisatie en test\PoC\Statemachine PCiD\statemachine\bin\Debug\Statemachine Generator1.9.4.exe.config
+C:\Users\rdegr\OneDrive - ZuydHogeschool\School\Leerjaar 3\stage\4. realisatie en test\PoC\Statemachine PCiD\statemachine\bin\Debug\Statemachine Generator1.9.4.exe
+C:\Users\rdegr\OneDrive - ZuydHogeschool\School\Leerjaar 3\stage\4. realisatie en test\PoC\Statemachine PCiD\statemachine\bin\Debug\Statemachine Generator1.9.4.pdb
+C:\Users\rdegr\OneDrive - ZuydHogeschool\School\Leerjaar 3\stage\4. realisatie en test\PoC\Statemachine PCiD\statemachine\obj\Debug\Statemachine Generator1.9.4.exe
+C:\Users\rdegr\OneDrive - ZuydHogeschool\School\Leerjaar 3\stage\4. realisatie en test\PoC\Statemachine PCiD\statemachine\obj\Debug\Statemachine Generator1.9.4.pdb
